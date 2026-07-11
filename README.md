@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sujanmd/dsa/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/Sujanmd/dsa/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
