@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Sujanmd/dsa/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Sujanmd/dsa/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujanmd/dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Sujanmd/dsa/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Sujanmd/dsa/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
