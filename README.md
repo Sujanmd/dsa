@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sujanmd/dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujanmd/dsa/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Sujanmd/dsa/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujanmd/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sujanmd/dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sujanmd/dsa/tree/master/0628-maximum-product-of-three-numbers) |
