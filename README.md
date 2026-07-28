@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/Sujanmd/dsa/tree/master/0626-exchange-seats) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Sujanmd/dsa/tree/master/1517-find-users-with-valid-e-mails) |
 ## Hash Table
 |  |
 | ------- |
