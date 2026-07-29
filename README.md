@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sujanmd/dsa/tree/master/0027-remove-element) |
 | [0064-minimum-path-sum](https://github.com/Sujanmd/dsa/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sujanmd/dsa/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sujanmd/dsa/tree/master/0198-house-robber) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sujanmd/dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/Sujanmd/dsa/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
