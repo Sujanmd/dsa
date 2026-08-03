@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sujanmd/dsa/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sujanmd/dsa/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sujanmd/dsa/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujanmd/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sujanmd/dsa/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sujanmd/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujanmd/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujanmd/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujanmd/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujanmd/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sujanmd/dsa/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujanmd/dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujanmd/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujanmd/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Sujanmd/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujanmd/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/Sujanmd/dsa/tree/master/1652-defuse-the-bomb) |
