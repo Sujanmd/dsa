@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sujanmd/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujanmd/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujanmd/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 | [1652-defuse-the-bomb](https://github.com/Sujanmd/dsa/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sujanmd/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sujanmd/dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sujanmd/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujanmd/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/Sujanmd/dsa/tree/master/1652-defuse-the-bomb) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
