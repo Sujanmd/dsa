@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sujanmd/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujanmd/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujanmd/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujanmd/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujanmd/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sujanmd/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sujanmd/dsa/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujanmd/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sujanmd/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sujanmd/dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sujanmd/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -164,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sujanmd/dsa/tree/master/0011-container-with-most-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sujanmd/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
