@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Sujanmd/dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Sujanmd/dsa/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sujanmd/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sujanmd/dsa/tree/master/1140-stone-game-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sujanmd/dsa/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Sujanmd/dsa/tree/master/0415-add-strings) |
 | [0696-count-binary-substrings](https://github.com/Sujanmd/dsa/tree/master/0696-count-binary-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sujanmd/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sujanmd/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Sujanmd/dsa/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
