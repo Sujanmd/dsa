@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sujanmd/dsa/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sujanmd/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/Sujanmd/dsa/tree/master/1652-defuse-the-bomb) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujanmd/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujanmd/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujanmd/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujanmd/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujanmd/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sujanmd/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/Sujanmd/dsa/tree/master/1652-defuse-the-bomb) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujanmd/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Game Theory
 |  |
 | ------- |
