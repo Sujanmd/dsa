@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sujanmd/dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sujanmd/dsa/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Sujanmd/dsa/tree/master/0027-remove-element) |
 | [0064-minimum-path-sum](https://github.com/Sujanmd/dsa/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sujanmd/dsa/tree/master/0120-triangle) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujanmd/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Sujanmd/dsa/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Sujanmd/dsa/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Sujanmd/dsa/tree/master/0415-add-strings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sujanmd/dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
