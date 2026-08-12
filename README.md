@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sujanmd/dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Sujanmd/dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sujanmd/dsa/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Sujanmd/dsa/tree/master/0696-count-binary-substrings) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujanmd/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Sujanmd/dsa/tree/master/0072-edit-distance) |
+| [0151-reverse-words-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Sujanmd/dsa/tree/master/0696-count-binary-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sujanmd/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
