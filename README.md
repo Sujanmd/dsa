@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sujanmd/dsa/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sujanmd/dsa/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sujanmd/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Sujanmd/dsa/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Sujanmd/dsa/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujanmd/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sujanmd/dsa/tree/master/0213-house-robber-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sujanmd/dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sujanmd/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sujanmd/dsa/tree/master/0268-missing-number) |
 ## String
