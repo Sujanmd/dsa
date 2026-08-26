@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Sujanmd/dsa/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Sujanmd/dsa/tree/master/0155-min-stack) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sujanmd/dsa/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sujanmd/dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Sujanmd/dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/Sujanmd/dsa/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sujanmd/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sujanmd/dsa/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Sujanmd/dsa/tree/master/0392-is-subsequence) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sujanmd/dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Sujanmd/dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sujanmd/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sujanmd/dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Sujanmd/dsa/tree/master/0509-fibonacci-number) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sujanmd/dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Sujanmd/dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sujanmd/dsa/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sujanmd/dsa/tree/master/1019-next-greater-node-in-linked-list) |
 ## Sliding Window
