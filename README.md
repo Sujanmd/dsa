@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sujanmd/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/Sujanmd/dsa/tree/master/1652-defuse-the-bomb) |
 | [2029-stone-game-ix](https://github.com/Sujanmd/dsa/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujanmd/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Sujanmd/dsa/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujanmd/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sujanmd/dsa/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/Sujanmd/dsa/tree/master/0670-maximum-swap) |
 | [2029-stone-game-ix](https://github.com/Sujanmd/dsa/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujanmd/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sujanmd/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
